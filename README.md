@@ -11,3 +11,4 @@ After installing the plotter,
     source plotter.sh ~> [ .bashrc ]  
     ```
 * Have fun using it. :smile:
+
